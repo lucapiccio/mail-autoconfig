@@ -1,7 +1,7 @@
 # mail-autoconfig
 PHP Script to generate the autoconfig for mailserver (autodiscover)
 
-This simple php site is useful to create a vhost autodiscover.example.com
+This simple php site is useful to create a vhost autoconfig.example.com
 
 It will generate the correct config for Outlook or Thunderbird for SSL mail.example.com where the domain is extract from header connection.
 
